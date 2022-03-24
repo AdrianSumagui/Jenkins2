@@ -1,6 +1,6 @@
 //package control;
 
-public class Main {
+public cs Main {
 
 	public static void main(String[] args) {
 		
